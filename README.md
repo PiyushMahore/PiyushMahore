@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PiyushMahore
+- 👋 Hi, I’m @Piyush Mahore
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning MERN stack
 - 😄 Pronouns: he/him
